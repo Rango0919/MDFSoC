@@ -1,0 +1,4 @@
+Options -Indexes
+ServerSignature Off
+
+RedirectMatch 404 "(config|core|services|database|logs|storage)/"

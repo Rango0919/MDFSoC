@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MDFSoC" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/soc_primary</item>
+        <item name="colorPrimaryVariant">@color/soc_primary_variant</item>
+        <item name="colorSecondary">@color/soc_secondary</item>
+        <item name="colorOnPrimary">@color/soc_black</item>
+        <item name="colorOnSecondary">@color/soc_white</item>
+        <item name="android:colorBackground">@color/soc_background</item>
+        <item name="colorSurface">@color/soc_surface</item>
+        <item name="colorOnSurface">@color/soc_on_surface</item>
+        <item name="colorOnSurfaceVariant">@color/soc_on_surface_variant</item>
+        <item name="colorOutline">@color/soc_outline</item>
+        <item name="android:statusBarColor">@color/soc_background</item>
+        <item name="android:navigationBarColor">@color/soc_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.MDFSoC.AppBar" parent="Theme.MDFSoC">
+        <item name="android:statusBarColor">@color/soc_surface</item>
+    </style>
+
+    <style name="Widget.MDFSoC.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardBackgroundColor">@color/soc_surface</item>
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">2dp</item>
+    </style>
+
+</resources>

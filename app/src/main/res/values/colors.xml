@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="soc_background">#0D1117</color>
+    <color name="soc_surface">#161B22</color>
+    <color name="soc_surface_variant">#1F2630</color>
+    <color name="soc_primary">#00BCD4</color>
+    <color name="soc_primary_variant">#00A8BF</color>
+    <color name="soc_secondary">#7C4DFF</color>
+    <color name="soc_on_surface">#E6EDF3</color>
+    <color name="soc_on_surface_variant">#8B949E</color>
+    <color name="soc_outline">#30363D</color>
+    <color name="soc_white">#FFFFFF</color>
+    <color name="soc_black">#000000</color>
+    <color name="soc_scrim">#45000000</color>
+
+    <color name="severity_critical">#F85149</color>
+    <color name="severity_high">#F0883E</color>
+    <color name="severity_medium">#D29922</color>
+    <color name="severity_low">#58A6FF</color>
+    <color name="severity_info">#3FB950</color>
+
+    <color name="status_open">#F0883E</color>
+    <color name="status_in_progress">#D29922</color>
+    <color name="status_closed">#3FB950</color>
+</resources>

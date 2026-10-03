@@ -1,0 +1,53 @@
+[2026-09-18 11:14:13] [INFO] Login successful {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:16:52] [INFO] Login successful {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:27] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:27] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:28] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:28] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:28] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:28] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:29] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:29] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:29] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:29] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:30] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:30] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:30] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:31] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:31] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:31] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:31] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:32] [WARN] Login failed {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 11:17:32] [WARN] Rate limit exceeded {"bucket":"login","identity":"127.0.0.1"}
+[2026-09-18 11:17:32] [WARN] Rate limit exceeded {"bucket":"login","identity":"127.0.0.1"}
+[2026-09-18 11:17:32] [WARN] Rate limit exceeded {"bucket":"login","identity":"127.0.0.1"}
+[2026-09-18 11:17:32] [WARN] Rate limit exceeded {"bucket":"login","identity":"127.0.0.1"}
+[2026-09-18 11:17:32] [WARN] Rate limit exceeded {"bucket":"login","identity":"127.0.0.1"}
+[2026-09-18 11:18:25] [INFO] Login successful {"username":"soc","ip":"127.0.0.1"}
+[2026-09-18 12:06:15] [WARN] Login failed {"username":"soc","ip":"192.168.0.168"}
+[2026-09-18 12:09:55] [WARN] Login failed {"username":"soc","ip":"192.168.0.170"}
+[2026-09-18 12:11:24] [INFO] Login successful {"username":"soc","ip":"192.168.0.168"}
+[2026-09-18 12:12:04] [INFO] Login successful {"username":"soc","ip":"192.168.0.170"}
+[2026-09-18 12:52:10] [INFO] Login successful {"username":"soc","ip":"192.168.0.168"}
+[2026-09-18 12:53:40] [INFO] Login successful {"username":"soc","ip":"192.168.0.168"}
+[2026-09-18 13:00:09] [INFO] Login successful {"username":"soc","ip":"192.168.0.170"}
+[2026-09-18 13:17:39] [INFO] Login successful {"username":"soc","ip":"192.168.0.168"}
+[2026-09-18 13:17:40] [ERROR] PHP error {"severity":8192,"message":"Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0","file":"/home/earl/Desktop/Projz/MDFSoC/mdf-soc-api/core/HttpClient.php","line":47}
+[2026-09-18 13:19:04] [INFO] Login successful {"username":"soc","ip":"192.168.0.168"}
+[2026-09-18 13:19:05] [ERROR] PHP error {"severity":8192,"message":"Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0","file":"/home/earl/Desktop/Projz/MDFSoC/mdf-soc-api/core/HttpClient.php","line":47}
+[2026-09-18 13:19:06] [ERROR] PHP error {"severity":8192,"message":"Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0","file":"/home/earl/Desktop/Projz/MDFSoC/mdf-soc-api/core/HttpClient.php","line":47}
+[2026-09-18 13:19:07] [ERROR] PHP error {"severity":8192,"message":"Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0","file":"/home/earl/Desktop/Projz/MDFSoC/mdf-soc-api/core/HttpClient.php","line":47}
+[2026-09-18 13:20:14] [ERROR] PHP error {"severity":8192,"message":"Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0","file":"/home/earl/Desktop/Projz/MDFSoC/mdf-soc-api/core/HttpClient.php","line":47}
+[2026-09-18 13:20:16] [ERROR] PHP error {"severity":8192,"message":"Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0","file":"/home/earl/Desktop/Projz/MDFSoC/mdf-soc-api/core/HttpClient.php","line":47}
+[2026-09-18 13:49:20] [INFO] Login successful {"username":"soc","ip":"192.168.0.170"}
+[2026-09-18 13:49:47] [INFO] Login successful {"username":"soc","ip":"192.168.0.170"}
+[2026-09-18 13:53:56] [ERROR] PHP error {"severity":8192,"message":"Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0","file":"/home/earl/Desktop/Projz/MDFSoC/mdf-soc-api/core/HttpClient.php","line":47}
+[2026-09-18 13:53:57] [ERROR] PHP error {"severity":8192,"message":"Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0","file":"/home/earl/Desktop/Projz/MDFSoC/mdf-soc-api/core/HttpClient.php","line":47}
+[2026-09-18 14:02:09] [ERROR] Email send failed {"to":"CHANGE-ME@gmail.com","subject":"MDF SOC: 3 new high/critical alert(s)"}
+[2026-09-18 14:02:40] [ERROR] Email send failed {"to":"CHANGE-ME@gmail.com","subject":"MDF SOC test email - 2026-09-18 14:02"}
+[2026-09-18 23:15:31] [INFO] Login successful {"username":"soc","ip":"192.168.0.168"}
+[2026-09-18 23:15:32] [ERROR] PHP error {"severity":8192,"message":"Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0","file":"/home/earl/Desktop/Projz/MDFSoC/mdf-soc-api/core/HttpClient.php","line":47}
+[2026-09-18 23:15:32] [ERROR] PHP error {"severity":8192,"message":"Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0","file":"/home/earl/Desktop/Projz/MDFSoC/mdf-soc-api/core/HttpClient.php","line":47}
+[2026-09-18 23:15:34] [ERROR] PHP error {"severity":8192,"message":"Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0","file":"/home/earl/Desktop/Projz/MDFSoC/mdf-soc-api/core/HttpClient.php","line":47}
+[2026-09-18 23:17:11] [ERROR] PHP error {"severity":8192,"message":"Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0","file":"/home/earl/Desktop/Projz/MDFSoC/mdf-soc-api/core/HttpClient.php","line":47}
+[2026-09-18 23:17:12] [ERROR] PHP error {"severity":8192,"message":"Function curl_close() is deprecated since 8.5, as it has no effect since PHP 8.0","file":"/home/earl/Desktop/Projz/MDFSoC/mdf-soc-api/core/HttpClient.php","line":47}

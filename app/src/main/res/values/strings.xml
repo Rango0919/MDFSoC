@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">MDF SoC</string>
+    <string name="app_subtitle">Mobile Digital Forensics SOC</string>
+
+    <string name="title_login">SOC Sign In</string>
+    <string name="title_alerts">Alerts</string>
+    <string name="title_alert_detail">Incident Detail</string>
+    <string name="title_ip_result">IP Investigation</string>
+
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_investigate">Investigate</string>
+    <string name="nav_phishing">Phishing</string>
+
+    <string name="title_phishing">Phishing Message</string>
+    <string name="hint_paste_phishing">Paste the raw email or message (headers included)</string>
+    <string name="action_extract_artifacts">Extract links and sender IPs</string>
+    <string name="action_load_sample">Load sample message</string>
+    <string name="extracted_from_message">Extracted from message</string>
+    <string name="label_urls_found">Links</string>
+    <string name="label_header_ips">Sender / relay IPs</string>
+    <string name="header_ip_row">Header IP: %1$s</string>
+    <string name="url_deobfuscated">Deobfuscated:\n%1$s\n\u2192 %2$s</string>
+    <string name="url_as_written">As written: %1$s</string>
+    <string name="url_final">Final after redirects: %1$s</string>
+    <string name="label_resolved_ips">Resolved IPs</string>
+    <string name="label_redirects">Redirects</string>
+    <string name="label_categories">Categories</string>
+    <string name="redirect_count">%1$d hops</string>
+    <string name="redirect_chain_header">Redirect chain:</string>
+    <string name="action_investigate_ip">Investigate host IP</string>
+    <string name="no_artifacts_found">No links or header IPs found in this message.</string>
+    <string name="sender_domains">Sender domains: %1$s</string>
+    <string name="ip_source_body_warning">IPs were only collected from header lines.</string>
+    <string name="error_empty_url">Paste a message containing at least one link.</string>
+    <string name="sources_line">Sources: %1$s</string>
+    <string name="detections_ratio">%1$d / %2$d</string>
+
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_investigate">Investigate</string>
+    <string name="action_back_to_dashboard">Back to Dashboard</string>
+
+    <string name="soc_overview">SOC Overview</string>
+    <string name="total_alerts">Total Alerts</string>
+    <string name="critical">Critical</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="recent_alerts">Recent Alerts</string>
+    <string name="view_all_alerts">View all</string>
+
+    <string name="alert_source_ip">Source IP</string>
+    <string name="alert_destination_ip">Destination IP</string>
+    <string name="alert_timestamp">Timestamp</string>
+    <string name="alert_status">Status</string>
+    <string name="alert_description">Description</string>
+    <string name="alert_mitre_technique">MITRE ATT&amp;CK Technique</string>
+    <string name="alert_rule_id">Rule ID</string>
+    <string name="alert_agent">Agent</string>
+    <string name="alert_scene">Incident ID</string>
+    <string name="alert_rule_level">Rule level</string>
+
+    <string name="label_enter_ip">Enter IP address</string>
+    <string name="hint_enter_ip">e.g. 8.8.8.8</string>
+    <string name="abuse_confidence">Abuse Confidence</string>
+    <string name="number_of_reports">Number of Reports</string>
+    <string name="country">Country</string>
+    <string name="isp">ISP</string>
+    <string name="usage_type">Usage Type</string>
+    <string name="domain">Domain</string>
+    <string name="vt_detections">VirusTotal Detections</string>
+    <string name="threat_status">Threat Status</string>
+    <string name="last_analysis">Last Analysis</string>
+    <string name="vt_link">VirusTotal Report</string>
+    <string name="ip_address">IP Address</string>
+
+    <string name="status_unknown">Unknown</string>
+    <string name="status_not_available">Not available</string>
+    <string name="empty_alert_list">No alerts to display</string>
+    <string name="empty_dashboard">No dashboard data yet</string>
+    <string name="empty_ip_result">No threat intelligence data available for this IP</string>
+    <string name="empty_severity_filter">No alerts for this severity</string>
+
+    <string name="error_no_internet">No internet connection. Check your network and try again.</string>
+    <string name="error_backend_unavailable">SOC backend is unreachable. Please try again later.</string>
+    <string name="error_wazuh_unavailable">Wazuh is unavailable or timed out. Showing available data.</string>
+    <string name="error_abuseipdb_rate_limit">AbuseIPDB rate limit reached. Try again in a few minutes.</string>
+    <string name="error_virustotal_rate_limit">VirusTotal rate limit reached. Try again in a few minutes.</string>
+    <string name="error_invalid_ip">Enter a valid IPv4 or IPv6 address.</string>
+    <string name="error_auth_failed">Authentication failed. Sign in again.</string>
+    <string name="error_server">Something went wrong on the server. Please try again later.</string>
+    <string name="error_unknown">Unexpected error. Please try again.</string>
+    <string name="error_empty_ip">Enter an IP address to investigate.</string>
+    <string name="error_feature_unavailable">This feature is not available on your backend yet.</string>
+
+    <string name="loading">Loading…</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="investigating">Investigating…</string>
+
+    <string name="threat_malicious">Malicious</string>
+    <string name="threat_suspicious">Suspicious</string>
+    <string name="threat_clean">Clean</string>
+    <string name="threat_unknown">No verdict</string>
+
+    <string name="login_subtitle">Credentials stay server-side. Your device only receives a signed access token.</string>
+</resources>
